@@ -11,6 +11,10 @@ I'm a passionate full-stack developer learning React, Node.js, and Spring Boot.
 - ☁️ Tools: Git, GitHub, VS Code, Postman
 
 ---
+## This is unnecessary but you can watch it
+<img src="https://giffiles.alphacoders.com/222/222023.gif" alt="Description" width="100%" height="300"/>
+
+
 ### `Languages`
 
 <h3 align="left">Languages and Tools:</h3>
