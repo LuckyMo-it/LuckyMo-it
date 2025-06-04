@@ -99,3 +99,7 @@ I'm a passionate full-stack developer learning React, Node.js, and Spring Boot.
 ### 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LuckyMo-it&theme=radical)](https://git.io/streak-stats)
+
+### Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=LuckyMo-it&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
